@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GISxml>
+	<BaseMap>
+		<enable>True</enable>
+		<Entry>
+			<Selected>True</Selected>
+			<Path>C:/ProgramFiles/RAS/file1.mbtiles</Path>
+		</Entry>
+	</BaseMap>
+	<VectorLayer>
+		<enable>True</enable>
+		<Entry1>
+			<Selected>True</Selected>
+			<Path>C:/ProgramFiles/RAS/file1.shp</Path>
+		</Entry1>
+		<Entry2>
+			<Selected>False</Selected>
+			<Path>C:/ProgramFiles/RAS/file2.shp</Path>
+		</Entry2>
+	</VectorLayer>
+	<RasterLayer>
+		<enable>True</enable>
+		<Entry1>
+			<Selected>True</Selected>
+			<Path>C:/ProgramFiles/RAS/file1.tiff</Path>
+		</Entry1>
+	</RasterLayer>
+	<AnnotationLayer>
+		<enable>True</enable>
+		<Entry1>
+			<Selected>True</Selected>
+			<Path>C:/ProgramFiles/RAS/file1.csv</Path>
+			<ViewRange>1/5000</ViewRange>
+		</Entry1>
+		<Entry2>
+			<Selected>True</Selected>
+			<Path>C:/ProgramFiles/RAS/file2.csv</Path>
+			<ViewRange>1/10000</ViewRange>
+		</Entry2>
+	</AnnotationLayer>
+	<TopologyLayer>
+		<enable>True</enable>
+	</TopologyLayer>
+</GISxml>
